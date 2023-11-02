@@ -7,7 +7,7 @@ const mercadopago = new MercadoPago("TEST-652cf701-588a-4608-bf5c-86ed8a9f697d",
 document.getElementById("checkout-btn").addEventListener("click", function () {
   const orderData = {
     quantity: 1,
-    description: "falopa",
+    description: "JUICIO",
     price: 300.00,
   };
 
