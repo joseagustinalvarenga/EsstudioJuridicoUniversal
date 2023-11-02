@@ -154,7 +154,7 @@ body {
 .green-button a {
   font-size: 14px;
   color: #fff;
-  background-color: #94806d;
+  background-color: #fa9a7c;
   padding: 12px 30px;
   display: inline-block;
   border-radius: 5px;
@@ -171,7 +171,7 @@ body {
 .orange-button a {
   font-size: 14px;
   color: #fff;
-  background-color: #392c26;
+  background-color: #ff511a;
   padding: 12px 30px;
   display: inline-block;
   border-radius: 5px;
@@ -584,7 +584,7 @@ header
     width: 100%;
   }
   .header-area {
-    background-color: #a73737;
+    background-color: #f7f7f7;
     padding: 0px 15px;
     height: 100px;
     box-shadow: none;
@@ -747,7 +747,7 @@ banner
   position: relative;
   z-index: 2;
   font-size: 56px;
-  color: #392c26;
+  color: #ee5006;
   font-weight: 700;
   opacity: 1;
   visibility: visible;
@@ -759,7 +759,7 @@ banner
   width: 80px;
   height: 6px;
   border-radius: 3px;
-  background-color: #dccfc0;
+  background-color: #f0b59d;
   margin-bottom: 40px;
   opacity: 1;
   visibility: visible;
@@ -1057,7 +1057,7 @@ section.calculator .section-heading h4 {
 #calculate button.orange-button {
   font-size: 14px;
   color: #fff;
-  background-color: #fd0000;
+  background-color: #ff511a;
   padding: 12px 30px;
   display: inline-block;
   border-radius: 5px;
@@ -1102,7 +1102,7 @@ section.testimonials .section-heading {
 .testimonials .item i {
   width: 70px;
   height: 70px;
-  background-color: #43ba7f;
+  background-color: #ff511a;
   display: inline-block;
   text-align: center;
   line-height: 70px;
@@ -1129,7 +1129,7 @@ section.testimonials .section-heading {
   display: block;
   font-size: 15px;
   font-weight: 600;
-  color: #43ba7f;
+  color: #ff511a;
 }
 
 .testimonials .item img {
@@ -1614,7 +1614,7 @@ section.map .info-item a:hover {
 }
 
 #contact button.orange-button:hover {
-  background-color: #43ba7f;
+  background-color: #ff511a;
 }
 
 
